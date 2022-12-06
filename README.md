@@ -8,7 +8,6 @@ The index creation occured in 7 stages
 
 ![Screenshot](screenshot1.png)
 
-![Screenshot](Screen Shot 2022-12-06 at 4.44.31 AM.png)
 ## Stage 1: Getting the Data
 To begin my index project, I scraped the "https://themacindex.com/variants/MHA22/beats-pro?currency=USD" site which displayed the price of beats headphones for 34 countries around the world. It included the list price, price with refunds as well as the price in the country's local currency. 
 
@@ -66,8 +65,11 @@ This was an easy step as all I had to do was subtract the beats price for each c
 
 The difference was then added to the beats Index Table
 
+![Screenshot](screenshot4.png)
+
 I concluded this first part of my assignment by creating a bar graph with the price difference
 
+![Screenshot](screenshot2.png)
 
 # External Factor Analysis: 
 The external factor I chose was the inflation rate per each country in my analysis. Exchange rate is {}
@@ -86,6 +88,8 @@ To compare the imflation rate to the price difference, I created a scatter plot 
 
 To then quantitively compare the values, I found the correlation coefficent.
 - r = 0.0958
+
+![Screenshot](screenshot3.png)
 
 # Conclusion
 Through my mind I say lenghty analysis, I found that beats prices differ quite significantly around the world. So if you are in on a world-wide trip and you just happen to want to buy beats, make sure to buy them in Japan as they have the cheaptest price. However, if you happen to really want to buy beats and happen to be in Brazil, I would suggest waiting as they have the most expensive price for beats. 
