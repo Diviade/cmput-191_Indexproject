@@ -83,13 +83,15 @@ To begin analyzing inflation rates of my selected countries, I had to first scra
 
 A bar graph was then made to display the inflation rate differences across the countries 
 
+![Screenshot](screenshot3.png)
+
 ## Stage 2: Comaparing Price Difference to External Factors
 To compare the imflation rate to the price difference, I created a scatter plot which visually compared the two values.
 
 To then quantitively compare the values, I found the correlation coefficent.
 - r = 0.0958
 
-![Screenshot](screenshot3.png)
+![Screenshot](screenshot5.png)
 
 # Conclusion
 Through my mind I say lenghty analysis, I found that beats prices differ quite significantly around the world. So if you are in on a world-wide trip and you just happen to want to buy beats, make sure to buy them in Japan as they have the cheaptest price. However, if you happen to really want to buy beats and happen to be in Brazil, I would suggest waiting as they have the most expensive price for beats. 
