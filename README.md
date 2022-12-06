@@ -6,7 +6,7 @@ For my assignment, I chose to investigate Beats by Dre, a brand of bluetooth hea
 # Creation of Index Table and Results: 
 The index creation occured in 7 stages
 
-![Screenshot](Screen Shot 2022-12-06 at 4.44.31 AM.png)
+![Screenshot](Screenshot.png)
 
 ![Screenshot](Screen Shot 2022-12-06 at 4.44.31 AM.png)
 ## Stage 1: Getting the Data
