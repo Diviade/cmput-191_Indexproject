@@ -72,7 +72,7 @@ I concluded this first part of my assignment by creating a bar graph with the pr
 ![Screenshot](screenshot2.png)
 
 # External Factor Analysis: 
-The external factor I chose was the inflation rate per each country in my analysis. Exchange rate is {}
+The external factor I chose was the inflation rate per each country in my analysis. Inflation rate is increase in the price of goods and services over time. It is typically a measure of the countries financial health as an increase in a country's inflation rate symbolizes the weakening power of the country's currency. 
 
 The analysis of the external factor occured in 2 stages
 
