@@ -6,7 +6,9 @@ For my assignment, I chose to investigate Beats by Dre, a brand of bluetooth hea
 # Creation of Index Table and Results: 
 The index creation occured in 7 stages
 
-![Screenshot](screenshot.png)
+![Screenshot](Screen Shot 2022-12-06 at 4.44.31 AM.png)
+
+![Screenshot](Screen Shot 2022-12-06 at 4.44.31 AM.png)
 ## Stage 1: Getting the Data
 To begin my index project, I scraped the "https://themacindex.com/variants/MHA22/beats-pro?currency=USD" site which displayed the price of beats headphones for 34 countries around the world. It included the list price, price with refunds as well as the price in the country's local currency. 
 
