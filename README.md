@@ -1,4 +1,8 @@
 # The Beats Index
+It is often said that you should be able to go country to country and purchase the same items for the same equivalent price, however for those of us who have done a little traveling (even across provinces) we can clearly see that this is not true for the real world. Products are often priced differely which can be attributed to many factors such as the import fees placed on products or proximity to trading ports. This means that certain goods are cheaper in certain countries than others. 
+
+For my assignment, I chose to investigate Beats by Dre, a brand of bluetooth headphones. I untimately chose beats as I happened to be wearing them  as read the assignment instructions and became curious as to where I can fly to, in order to buy a new pair (My current one has seen better days)
+
 # Creation of Index Table and Results: 
 The index creation occured in 7 stages
 ## Stage 1: Getting the Data
@@ -53,7 +57,7 @@ After the lessons learned from the previous step of trying to retrieve the curre
 
 The local prices were then added to the beats index table
 
-## Stage 7: Getting the price difference
+## Stage 7: Getting the price difference and Displaying the data
 This was an easy step as all I had to do was subtract the beats price for each country to the CAD price.
 
 The difference was then added to the beats Index Table
@@ -64,9 +68,30 @@ I concluded this first part of my assignment by creating a bar graph with the pr
 # External Factor Analysis: 
 The external factor I chose was the inflation rate per each country in my analysis. Exchange rate is {}
 
-The analysis of the external factor occured in x stages
+The analysis of the external factor occured in 2 stages
 
-## Stage 1: Retriveing and applying the external factor values to the beats index table
+## Stage 1: Retriveing and analyzing the external factor values to the beats index table
+To begin analyzing inflation rates of my selected countries, I had to first scrape data from "https://en.wikipedia.org/wiki/List_of_countries_by_inflation_rate". This Data was then made into a table (method listed previously).
+- First like I had done with my scraped data from my cleaning steps, I used string matching to get the inflation rate for each country I selected. 
+- The inflation data was cleaned to allow the value to be converted into the type float.
+
+A bar graph was then made to display the inflation rate differences across the countries 
+
+## Stage 2: Comaparing Price Difference to External Factors
+To compare the imflation rate to the price difference, I created a scatter plot which visually compared the two values.
+
+To then quantitively compare the values, I found the correlation coefficent.
+- r = 0.0958
+
+# Conclusion
+Through my mind I say lenghty analysis, I found that beats prices differ quite significantly around the world. So if you are in on a world-wide trip and you just happen to want to buy beats, make sure to buy them in Japan as they have the cheaptest price. However, if you happen to really want to buy beats and happen to be in Brazil, I would suggest waiting as they have the most expensive price for beats. 
+
+Additonally after analyzing my external factor of inflation, It appears that it does not seem to be correlated with the price difference across the countries. This means that more research needs to be done to find out the root cause of the price differences. Factors such as export/import taxes, distance to manufacturing facilities will be good places to start. 
+
+After many greuling hours, the hardest part of this assignment was trying to work with the original table I scraped. I can see why data scientist get paid the big bucks as trying to extract the right values from my data values proved to be an immense challenge. 
+
+# That is all folks, what a way to wrap up the semester!
+
 
 
 
